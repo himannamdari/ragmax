@@ -8,7 +8,8 @@
 
 | Resource | URL |
 |---|---|
-| 🌐 Project Lead | [himannamdari.com](https://himannamdari.com) |
+| 🌐 Main Website | [rag-max.com](https://www.rag-max.com) |
+| 👤 Project Lead | [himannamdari.com](https://himannamdari.com) |
 | 🚀 Live App | [ragmax.base44.app](https://ragmax.base44.app/) |
 
 ---
